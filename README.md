@@ -1,4 +1,4 @@
-![Drag Racing](Dnz.jpeg)
+![Drag Racing](Dnz.png)
 # Dnz.py
  The python script that analyze target url 
 ## install requirements 
