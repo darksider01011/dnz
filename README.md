@@ -7,5 +7,5 @@
  ```
 ## uasge
  ```bash
- python3 dnz.py -u example.com
+ python3 dnz.py -d example.com
  ```
