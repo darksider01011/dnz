@@ -86,7 +86,7 @@ def fetch_ns_records(domain):
 def main():
     # Argument parser setup
     parser = argparse.ArgumentParser(description="Perform DNS zone transfers and ASN lookup.")
-    parser.add_argument('-u', '--domain', required=True, help="Domain name to perform zone transfers on.")
+    parser.add_argument('-d', '--domain', required=True, help="Set domain name to perform zone transfers on")
     args = parser.parse_args()
 
     domain = args.domain
