@@ -1,6 +1,6 @@
 ![Drag Racing](Dnz.png)
 # Dnz.py
- The python script that analyze target url 
+ dnz is python script that check target for zone transfer vulnerability and ASN lookup  
 ## install requirements 
  ```bash
  pip install -r requirements.txt
